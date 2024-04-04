@@ -1,10 +1,16 @@
 # Employee-Payroll-Tracker-
 
+# Table of Contents:
+    Index.html
+    Script.js
+    License
+    .Gitgnore
+
 # License:
 MIT
 
-# Collaborations:
-Tutuor: Katie
+# General Info:
+Employee Payroll Tracker to allow input of employee's first name, last name, and salary. 
 
 # Languages:
 Javascript 
